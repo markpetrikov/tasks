@@ -1,0 +1,33 @@
+array newa
+	for each object in array1
+		object newo
+		get id
+		new.put id
+		get title
+		new.put title
+		get value
+		new.put value
+		get tests/values
+		array newa2
+			for each object in array2
+				object new2
+				get id
+				new2.put id
+				get title
+				new2.put title
+				get value
+				new2.put value
+				get tests/values
+				array newa3
+					for each object in array3 and new2
+						object new3
+						get id
+						newn.put id
+						get title
+						newn.put title
+						get value
+						newn.put value
+						no values
+						new3.add new3
+				new2.add new2
+		newa.add newo
