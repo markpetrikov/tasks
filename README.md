@@ -1,1 +1,0 @@
-# НТ Performance Lab
